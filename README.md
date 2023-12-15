@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**gnachtigal/gnachtigal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Greetings! I'm Gabriel Lima, a results-driven Senior Software Engineer based in Porto Alegre, Brazil, currently spearheading impactful projects at BMW USA in collaboration with Zallpy Digital. With a robust background in C#, .NET Core, and Microservices, I've consistently delivered innovative solutions while fostering a culture of continuous learning within my teams.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
