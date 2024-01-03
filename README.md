@@ -8,3 +8,7 @@ Greetings! I'm Gabriel Lima, a results-driven Senior Software Engineer based in 
 - 💬 Ask me about C# / .NET / Microservices
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabrielnachtigal/) or [E-mail](mailto:gabriel.nachtigal@gmail.com)
 
+Currently doing the #100DaysCodingChallenge
+
+🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+-------------------------------------------------------------------------- 02% -----------------------------------------------------------------------------
