@@ -10,4 +10,4 @@ Greetings! I'm Gabriel Lima, a results-driven Senior Software Engineer based in 
 
 Currently doing the #100DaysCodingChallenge
 
-🟩🟩🟩🟩🟩
+🟩🟩🟩🟩🟩🟩
